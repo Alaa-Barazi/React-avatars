@@ -1,0 +1,20 @@
+.card-container {
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .card-table {
+    display:inline-flex;
+   
+    /* border-spacing: 1rem;  */
+    
+   
+  }
+  
+  .card-cell {
+    /* padding: 1rem; */
+    vertical-align:top;
+  }
+  
